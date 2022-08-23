@@ -1,2 +1,2 @@
-console.log ("Hello world \n");
+console.log("Hello world");
 console.log("fatto");
